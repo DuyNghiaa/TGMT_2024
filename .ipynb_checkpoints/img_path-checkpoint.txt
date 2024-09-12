@@ -1,0 +1,8 @@
+mydir = 'C:/Users/user/Documents/Thị giác máy tính/image/1.jpg'
+img = Image.open(mydir)
+
+
+
+
+
+dir = 'C:/Users/user/Documents/Thị giác máy tính/image'
